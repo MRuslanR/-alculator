@@ -1,0 +1,11 @@
+﻿  ConsoleApplication6.cpp
+C:\Users\1ghaw\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(52,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1ghaw\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(64,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1ghaw\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(126,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\1ghaw\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(134,39): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\1ghaw\source\repos\ConsoleApplication6\ConsoleApplication6\ConsoleApplication6.cpp(140,70): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  ConsoleApplication6.vcxproj -> C:\Users\1ghaw\source\repos\ConsoleApplication6\x64\Debug\ConsoleApplication6.exe
